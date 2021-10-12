@@ -1,5 +1,6 @@
 # Devito
-The python code used to control the Baxter Research Robot using the HTC VIVE.  
+Group project with myself, Shivam Bhatnagar, Renke Huang, Ian Kegler, Benjamin Pheifer, & Tessa Smulders.  
+This repositoty contains python code used to control the Baxter Research Robot using the HTC VIVE only. Additional PCs and software packages e.g. ROS are used.    
 
 Project Overview: https://youtu.be/8fvgJwRspsM  
 Operation guide: https://youtu.be/LIy24xF3gOI  
